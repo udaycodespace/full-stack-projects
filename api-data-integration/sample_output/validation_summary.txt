@@ -1,0 +1,5 @@
+Validation run 2026-01-29T10:00:00Z
+- Missing records whose user reference disappeared returned no issues
+- Duplicate records by external identifier returned no issues
+- Null-critical fields inside users table returned no issues
+- Orphaned users without a matching api_source entry returned no issues
